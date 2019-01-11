@@ -1,6 +1,6 @@
 try:
   from config import *
-  assert "" in API_TOKEN
+  assert "" not in API_TOKEN
 except:
   from selenium import webdriver
 
