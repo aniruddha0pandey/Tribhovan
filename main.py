@@ -16,8 +16,8 @@ def execute():
         # select least busy available device and execute.
         least_busy_device = least_busy(IBMQ.backends(simulator=False))
         print("Running on current least busy device: ", least_busy_device)
-        # running the job
-        # Show the results
+        # running jobs
+        # showing results
     except:
         print("All devices are currently unavailable.")
 
