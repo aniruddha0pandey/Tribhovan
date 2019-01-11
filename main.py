@@ -1,4 +1,8 @@
 from config import *
 from qiskit import IBMQ
 
-IBMQ.enable_account(API_TOKEN)
+def main():
+  IBMQ.enable_account(API_TOKEN)
+
+if __name__ == "__main__":
+  main()
