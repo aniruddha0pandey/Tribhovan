@@ -1,7 +1,8 @@
 # Tribhovan
 A Multi-valued Functional Decomposition Analysis for SDP microprocessors.  
-Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor).
-
+Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor).  
+  
+**API_TOKEN** is fetched each session rather than saving credentials on disk for portability.
 ```powershell
 > # Drivers for Selenium
 > wget 'https://www.7-zip.org/a/7z1806-x64.exe' 'https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-win64.zip'
