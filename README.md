@@ -1,5 +1,6 @@
 # Tribhovan
-A Multi-valued Functional Decomposition Analysis for SDP microprocessors.
+A Multi-valued Functional Decomposition Analysis for SDP microprocessors.  
+Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor).
 
 ```powershell
 > # Drivers for Selenium
