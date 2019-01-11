@@ -1,6 +1,6 @@
 # Tribhovan
-A Multi-valued Functional Decomposition Analysis for SDP Microprocessors. As part of my major project, SDP Microprocessor is curretly in R&D phase heavily inspired by RISC-V.
-Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor), 5-qubits supported.
+A Multi-valued Functional Decomposition Analysis for SDP Microprocessors. As part of my major project, SDP Microprocessor is curretly in R&D phase heavily inspired by RISC-V.  
+These decomposition algorithms are simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor), 5-qubits supported.
   
 **API_TOKEN** is fetched each session rather than saving credentials on disk for portability. Only Firefox is supported currently.
 ```powershell
