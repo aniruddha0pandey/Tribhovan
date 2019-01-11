@@ -22,7 +22,7 @@ def execute():
         print("All devices are currently unavailable.")
 
 def main():
-    # Create a Quantum and Classical Register
+    # Quantum and Classical Register
     # Main Gate Initilization
     execute()
 
