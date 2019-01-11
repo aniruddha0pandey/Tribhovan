@@ -22,9 +22,12 @@ def execute():
         print("All devices are currently unavailable.")
 
 def main():
-    # Quantum and Classical Register
-    # Main Gate Initilization
-    execute()
+    try:
+        # Quantum and Classical Register
+        # Main Gate Initilization
+        execute()
+    except QiskitError as ex:
+        print('There was an error in the circuit!. Error = {}'.format(ex))
 
 if __name__ == "__main__":
   main()
