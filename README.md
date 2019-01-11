@@ -1,6 +1,6 @@
 # Tribhovan
 A Multi-valued Functional Decomposition Analysis for SDP microprocessors.  
-Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor).  
+Simulated with [IBM Q 5 Tenerife (ibmqx4)](https://quantumexperience.ng.bluemix.net/qx/editor), 5-qubits supported.
   
 **API_TOKEN** is fetched each session rather than saving credentials on disk for portability.
 ```powershell
