@@ -13,6 +13,6 @@ A Multi-valued Functional Decomposition Analysis for SDP microprocessors.
 > conda create --name tribhovan python=3
 > activate tribhovan
 > python -m pip install --upgrade pip
-> pip install qiskit selenium
+> pip install qiskit selenium clipboard
 > python get_token.py main.py
 ```
