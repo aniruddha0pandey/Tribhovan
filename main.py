@@ -1,4 +1,4 @@
-from config import *
+from get_token import *
 from qiskit import IBMQ
 
 def main():
