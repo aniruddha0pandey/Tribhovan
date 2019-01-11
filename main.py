@@ -30,4 +30,4 @@ def main():
         print('There was an error in the circuit!. Error = {}'.format(ex))
 
 if __name__ == "__main__":
-  main()
+    main()
